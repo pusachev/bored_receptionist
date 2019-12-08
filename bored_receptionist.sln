@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bored_receptionist", "bored_receptionist\bored_receptionist.csproj", "{FA55C457-0C8E-43FE-922B-DE68B9C0F410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gym", "Gym\Gym.csproj", "{0409E89E-19BE-423F-B55E-8A43912AEE51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA55C457-0C8E-43FE-922B-DE68B9C0F410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA55C457-0C8E-43FE-922B-DE68B9C0F410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA55C457-0C8E-43FE-922B-DE68B9C0F410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA55C457-0C8E-43FE-922B-DE68B9C0F410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0409E89E-19BE-423F-B55E-8A43912AEE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0409E89E-19BE-423F-B55E-8A43912AEE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0409E89E-19BE-423F-B55E-8A43912AEE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0409E89E-19BE-423F-B55E-8A43912AEE51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
